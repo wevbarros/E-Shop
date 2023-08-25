@@ -1,0 +1,7 @@
+C:\Users\wevba\dev\YuGiOh-Shop\CatalogAPI-YuGiOh\obj\Debug\net7.0\CatalogAPI-YuGiOh.csproj.AssemblyReference.cache
+C:\Users\wevba\dev\YuGiOh-Shop\CatalogAPI-YuGiOh\obj\Debug\net7.0\CatalogAPI-YuGiOh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wevba\dev\YuGiOh-Shop\CatalogAPI-YuGiOh\obj\Debug\net7.0\CatalogAPI-YuGiOh.AssemblyInfoInputs.cache
+C:\Users\wevba\dev\YuGiOh-Shop\CatalogAPI-YuGiOh\obj\Debug\net7.0\CatalogAPI-YuGiOh.AssemblyInfo.cs
+C:\Users\wevba\dev\YuGiOh-Shop\CatalogAPI-YuGiOh\obj\Debug\net7.0\CatalogAPI-YuGiOh.csproj.CoreCompileInputs.cache
+C:\Users\wevba\dev\YuGiOh-Shop\CatalogAPI-YuGiOh\obj\Debug\net7.0\CatalogAPI-YuGiOh.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\wevba\dev\YuGiOh-Shop\CatalogAPI-YuGiOh\obj\Debug\net7.0\CatalogAPI-YuGiOh.MvcApplicationPartsAssemblyInfo.cache
